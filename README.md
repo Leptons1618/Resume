@@ -48,13 +48,6 @@ As a curious and enthusiastic individual, I thrive on delving into the depths of
 
  Reading, Anime, Chess, Video Games, Esports
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## **Projects**
 
 #### [__Machine Learning MLOps Pipeline Project__](https://gitlab.com/lept0n5/MLOPs), [November 2023 – Present]
